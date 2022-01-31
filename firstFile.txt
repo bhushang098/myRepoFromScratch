@@ -1,0 +1,1 @@
+This is mY first File Using Git empty repo and using echo command
