@@ -1,4 +1,5 @@
 Logic to login and Other Auth functionlaty lies here 
 writtted code all togeter 
 
+adding Auh functionslity
 
